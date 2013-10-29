@@ -1,0 +1,22 @@
+.ispis td, .ispis th {
+
+	padding: 10px;
+	border: 1px solid grey;
+	width: 120px;
+	
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.ispis th {
+	background-color: #d7eaef;
+	border: 3px solid grey;
+}
+
+.sivkasto {
+	background-color: #e0e0e0;
+
+}
